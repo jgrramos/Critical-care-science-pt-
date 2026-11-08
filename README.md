@@ -5,6 +5,7 @@ Traduções não oficiais geradas automaticamente por IA a partir de artigos da 
 
 Artigos da [Critical Care Science](https://criticalcarescience.org) (acesso aberto, licença CC BY 4.0), do mais recente ao mais antigo. Cada tradução é **não oficial**, gerada por IA, e mantém as referências no idioma original.
 
+- **05/11/2026**: [Diretrizes da AMIB sobre choque circulatório: avaliação, monitorização e avaliação hemodinâmica](artigos/2026/2026-11-05-diretrizes-amib-choque-circulatorio.md) — *AMIB Guidelines on circulatory shock: evaluation, monitoring, and hemodynamic assessment*
 - **05/11/2026**: [Ventilação controlada por fluxo na unidade de terapia intensiva: uma abordagem aguardada no cuidado crítico](artigos/2026/2026-11-05-ventilacao-controlada-por-fluxo-na-uti.md) — *Flow-controlled ventilation in the intensive care unit—an approach awaited in critical care*
 - **05/11/2026**: [Mobilização oportuna na lesão cerebral aguda: do tempo cronológico ao tempo fisiológico](artigos/2026/2026-11-05-mobilizacao-oportuna-lesao-cerebral-aguda.md) — *Timely mobilization in acute brain injury: from chronological to physiological timing*
 - **05/11/2026**: [Avaliação da escala de coma de Glasgow na admissão à unidade de terapia intensiva: quão consistentemente ela é documentada?](artigos/2026/2026-11-05-escala-de-coma-de-glasgow-documentacao-na-admissao-uti.md) — *Glasgow coma scale assessment at intensive care unit admission: how consistently is it documented?*
